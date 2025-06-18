@@ -11,7 +11,7 @@ ApplicationWindow {
     minimumWidth: 360
     minimumHeight: 560
     visible: true
-    title: "Beautiful Calculator"
+    title: "Y-Calculator"
     color: "#000000"
 
     Calculator {
